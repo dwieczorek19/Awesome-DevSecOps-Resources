@@ -19,3 +19,15 @@
 
 9. Notatki z kluczowymi informacjami do systemu Git - [link](https://github.com/bogdanpolak/nauka-gita)
 
+
+### Excercises
+
+1. Learn Git Branching - [link](https://learngitbranching.js.org/)
+
+2. Conflict practice - [link](https://github.com/githubtraining/conflict-practice)
+
+3. Git warsztaty - [link](https://www.gitwarsztaty.pl/cwiczenia)
+
+
+### Interview questions
+1. Git pytania rekrutacyjne 2024 - [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
